@@ -23,8 +23,13 @@ button {
   cursor: pointer;
 }
 
+li {
+  list-style: none;
+}
+
 img {
-  width: 400px;
+  width: 500px;
   padding-bottom: 20px;
-  display: inline-block;
+  display: block;
+  list-style: none;
 }
